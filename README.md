@@ -4,7 +4,7 @@
 - 🌱 Estudando Javascript
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jefersoncn&show_icons=true&theme=radical)](https://github.com/Jefersoncn/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jefersoncn&theme=radical)](https://github.com/Jefersoncn/github-readme-stats)
+
 
 <!-- imagem -->
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
