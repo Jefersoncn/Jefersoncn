@@ -1,9 +1,15 @@
-### Olá! Eu sou o Jefersoncn 👋
+### Oi! Sou Jefersoncn 👋
 
 - 🔭 Hoje trabalho com segurança da informação, porém mudando o foco e me profissionalizando com Back-end ...
 - 🌱 Estudando Javascript
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jefersoncn&show_icons=true&theme=radical)](https://github.com/Jefersoncn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jefersoncn&theme=radical)](https://github.com/Jefersoncn/github-readme-stats)
+
+<!-- imagem -->
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Estudando no momento
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
