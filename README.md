@@ -1,4 +1,4 @@
-### Oi! Sou Jefersoncn 👋
+### Oi! Sou Jeferson 👋
 
 - 🔭 Hoje trabalho com segurança da informação, porém mudando o foco e me profissionalizando com Back-end ...
 - 🌱 Estudando Javascript
