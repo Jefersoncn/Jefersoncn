@@ -1,7 +1,7 @@
 ### Oi! Sou Jeferson 👋
 
 - 🔭 Hoje trabalho com segurança da informação, porém mudando o foco e me profissionalizando com Back-end ...
-- 🌱 Estudando Javascript
+- 🌱 Estudando Nodejs, Typescript, Nest, Prisma, Express
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jefersoncn&show_icons=true&theme=radical)](https://github.com/Jefersoncn/github-readme-stats)
 
